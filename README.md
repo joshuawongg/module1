@@ -1,4 +1,4 @@
-# # Horiseon Website
+ # Horiseon Website
 - Module 1 Challenge
 ## Description
 - Modified starter code to make images more accessible by adding alt tags
